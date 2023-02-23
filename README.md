@@ -37,4 +37,4 @@ Node.js and npm installed on your machine.
 
 ![image](https://user-images.githubusercontent.com/5901255/220908303-d95daec0-39c7-4f37-9d4a-725b3a4d00fb.png)
 
-![image](https://user-images.githubusercontent.com/5901255/220908303-d95daec0-39c7-4f37-9d4a-725b3a4d00fb.png)
+![image](https://user-images.githubusercontent.com/5901255/220929416-cb9ca19a-5851-4a23-b051-9023af77106a.png)
